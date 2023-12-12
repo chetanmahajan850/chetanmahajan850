@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chetan Mahajan</h1>
-<h3 align="center">A passionate IoT and Frontend developer from India</h3>
-<h3 align="center">I'm an Freelancer & Seller on Fiverr [https://www.fiverr.com/chetanmahajn850](https://www.fiverr.com/chetanmahajn850)</h3>
+<h3 align="center">A passionate 💡IoT and 📱Frontend developer from India</h3>
+
+## I'm an Freelancer & Seller on [Fiverr](https://www.fiverr.com/chetanmahajn850/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetanmahajan850&label=Profile%20views&color=0e75b6&style=flat" alt="chetanmahajan850" /> </p>
 
