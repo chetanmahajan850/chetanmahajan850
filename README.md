@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=XFW1LlWCBqA">
+    <img src="https://github.com/thingslinker/thingslinker/blob/master/thingslinker_banner.png" alt="Client Name">
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Chetan Mahajan</h1>
 <h3 align="center">A passionate 💡IoT and 📱Frontend developer from India</h3>
 
