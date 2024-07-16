@@ -39,7 +39,7 @@
 <p><a href="https://www.buymeacoffee.com/chetanmahas"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chetanmahas" /></a></p>
 </br></br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chetanmahajan850&show_icons=true&locale=en&layout=compact" alt="chetanmahajan850" /></p>
-</br></br><br></br></br><br></br>
+</br></br><br></br></br><br></br></br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chetanmahajan850&show_icons=true&locale=en" alt="chetanmahajan850" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetanmahajan850&" alt="chetanmahajan850" /></p>
